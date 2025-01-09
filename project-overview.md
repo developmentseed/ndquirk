@@ -38,7 +38,7 @@ This proposal has grown from many conversations over the years, all of whom woul
 
 - [ ] Define project goals
     - [ ] Construct a list of use cases for the library
-	- [ ] Define stakeholders and communication pathways for soliciting feedback
+    - [ ] Define stakeholders and communication pathways for soliciting feedback
 - [ ] Complete an API design document, including establishing whether a new library is necessary or an extension for great expectations would be sufficient
 - [ ] Implement a mechanism for defining and connecting to a data source
 - [ ] Implement, test, and document mechanisms for defining expectations
