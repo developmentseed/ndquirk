@@ -66,3 +66,4 @@ This proposal has grown from many conversations over the years, all of whom woul
 - [https://www.earthdata.nasa.gov/about/competitive-programs/access/data-quality-screening-service](https://www.earthdata.nasa.gov/about/competitive-programs/access/data-quality-screening-service)
 - [https://podaac-tools.jpl.nasa.gov/mcc/](https://podaac-tools.jpl.nasa.gov/mcc/)
 - [https://wiki.earthdata.nasa.gov/display/ESDSWG/Dataset+Interoperability+Recommendations+for+Earth+Science](https://wiki.earthdata.nasa.gov/display/ESDSWG/Dataset+Interoperability+Recommendations+for+Earth+Science)
+- [https://github.com/xarray-contrib/xarray-schema](https://github.com/xarray-contrib/xarray-schema)
