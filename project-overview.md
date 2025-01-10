@@ -20,7 +20,7 @@ Sub-goals
 
 ## Partner and Stakeholders
 
-This utility would be relevant for any data provider or user of N-D data. For example, the goals should include making the tool accessible and useful for data providers at NASA, NOAA, and USGS.
+This utility would be relevant for any data provider or user of N-D data. For example, the goals should include making the tool accessible and useful for data providers at NASA, NOAA, USGS, ESA, etc...
 
 This proposal has grown from many conversations over the years, all of whom would be likely either partners or stakeholders in the project. These people include:
 
